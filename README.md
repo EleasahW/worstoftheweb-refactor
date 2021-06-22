@@ -6,7 +6,7 @@
     *   (e.g. creating div for navigation items in anticipation of flex)
 3. Reset CSS Styles
 4. Styled using CSS (while referring to Refactoring UI notes)
-
+   *Utilized coolors.co for palate
 ## Decisions
 
 ### Home (aka index.html)
