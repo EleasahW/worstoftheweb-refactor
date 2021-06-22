@@ -11,6 +11,11 @@ body{
     background-color: hsl(240,33%,82%);
 }
 
+h1, h2, h3, h4{
+    font-family: montserrat, sans-serif;
+    color: hsl(244,41%,8%);
+}
+
 p{
     font-family: lato, Serif;
     font-size: 14px;
