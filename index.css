@@ -38,12 +38,12 @@ a{
 
 /**Bottom Section*/
 hr{
-    width: 80%;
-    margin: 2% 10% 2% 10%;
+    width: 90%;
+    margin: 2% 5% 2% 5%;
 }
 
 .bottom-1 h3{
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 10px;
     margin-left: 20px;
 }
@@ -52,6 +52,7 @@ hr{
     font-size: 12px;
     margin-left: 20px;
     width: 90%;
+    text-align: justify;
 }
 
 .bottom a{
@@ -71,6 +72,7 @@ hr{
 
 .bottom-2 a:first-child{
     margin: 0% 35% 0% 35%;
+    text-decoration: none;
 }
 
 .bottom-2 input[type=submit]{
