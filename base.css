@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: SansSerif;
+    text-decoration: none;
+}
+
+.main{
+    background-color: hsl(0,0%,98%);
+}
+
+body{
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: hsl(30,76%,82%);
+}
+
+h1, h2, h3, h4{
+    font-family: montserrat, sans-serif;
+    color: hsl(244,41%,8%);
+}
+
+h2{
+    margin-top: 10px;
+}
+
+p{
+    font-family: lato, Serif;
+    font-size: 14px;
+    margin-top: 10px;
+    color: hsl(244,41%,8%);
+    width: 35em;
+    /**text-align: justify;*/
+}
+
+a{
+    color: hsl(240,100%,47%);
+}
+
+input[type=submit]{
+    border: none;
+    text-decoration: none;
+    color: hsl(244,41%,8%);
+    background-color: hsl(193,100%,84%);
+    padding: 5px 5px;
+    margin: 4px 2px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px hsl(244,41%,8%);
+}
+
+input[type=submit]:hover{
+    cursor: pointer;
+}
